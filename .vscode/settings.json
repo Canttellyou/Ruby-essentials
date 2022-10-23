@@ -1,0 +1,7 @@
+{
+  "ruby.format": "rufo",
+  "[ruby]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": null
+  }
+}
